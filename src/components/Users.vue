@@ -133,7 +133,7 @@
     },
     {
      "local": "Puebla",
-     "resultado": "",
+     "resultado": "L",
      "visitante": "Atlas",
      "isael": "E",
      "angel": "L",

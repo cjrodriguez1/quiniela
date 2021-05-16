@@ -121,7 +121,7 @@
     },
      {
      "local": "Cruz Azul",
-     "resultado": "",
+     "resultado": "L",
      "visitante": "Toluca",
      "isael": "L",
      "angel": "E",

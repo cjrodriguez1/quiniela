@@ -145,7 +145,7 @@
     },
      {
      "local": "America",
-     "resultado": "",
+     "resultado": "L",
      "visitante": "Pachuca",
      "isael": "L",
      "angel": "L",

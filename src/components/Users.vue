@@ -157,7 +157,7 @@
     },
     {
      "local": "Monterrey",
-     "resultado": "",
+     "resultado": "E",
      "visitante": "Santos",
      "isael": "L",
      "angel": "L",

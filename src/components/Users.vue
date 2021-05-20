@@ -169,7 +169,7 @@
     },
      {
      "local": "Pachuca",
-     "resultado": "",
+     "resultado": "E",
      "visitante": "Cruz Azul",
      "isael": "E",
      "angel": "V",

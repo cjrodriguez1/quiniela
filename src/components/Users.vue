@@ -181,7 +181,7 @@
     },
      {
      "local": "Santos",
-     "resultado": "",
+     "resultado": "L",
      "visitante": "Puebla",
      "isael": "L",
      "angel": "L",

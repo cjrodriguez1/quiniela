@@ -193,7 +193,7 @@
     },
      {
      "local": "Cruz Azul",
-     "resultado": "",
+     "resultado": "L",
      "visitante": "Pachuca",
      "isael": "L",
      "angel": "L",
@@ -205,7 +205,7 @@
     },
      {
      "local": "Puebla",
-     "resultado": "",
+     "resultado": "L",
      "visitante": "Santos",
      "isael": "E",
      "angel": "V",

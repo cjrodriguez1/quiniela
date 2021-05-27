@@ -215,6 +215,42 @@
      "rosas": "E",
      "ishar": "E",
     },
+    {
+     "local": "Santos",
+     "resultado": "",
+     "visitante": "Cruz Azul",
+     "isael": "E",
+     "angel": "L",
+     "charlie": "V",
+     "omar": "L",
+     "hector": "E",
+     "rosas": "L",
+     "ishar": "L",
+    },
+    {
+     "local": "Cruz Azul",
+     "resultado": "",
+     "visitante": "Santos",
+     "isael": "L",
+     "angel": "L",
+     "charlie": "L",
+     "omar": "L",
+     "hector": "L",
+     "rosas": "L",
+     "ishar": "L",
+    },
+     /*{
+     "local": "",
+     "resultado": "",
+     "visitante": "Total",
+     "isael": "7",
+     "angel": "5",
+     "charlie": "5",
+     "omar": "7",
+     "hector": "7",
+     "rosas": "3",
+     "ishar": "6",
+    },*/
    
     
   ]

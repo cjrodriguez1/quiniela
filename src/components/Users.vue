@@ -217,7 +217,7 @@
     },
     {
      "local": "Santos",
-     "resultado": "",
+     "resultado": "V",
      "visitante": "Cruz Azul",
      "isael": "E",
      "angel": "L",
@@ -239,18 +239,18 @@
      "rosas": "L",
      "ishar": "L",
     },
-     /*{
+     {
      "local": "",
      "resultado": "",
      "visitante": "Total",
      "isael": "7",
      "angel": "5",
-     "charlie": "5",
+     "charlie": "6",
      "omar": "7",
      "hector": "7",
      "rosas": "3",
      "ishar": "6",
-    },*/
+    },
    
     
   ]

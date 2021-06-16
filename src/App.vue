@@ -4,7 +4,7 @@
   </div>
 </template>
 <script>
-import Users from './components/Users.vue'
+import Users from './components/AudioVisualAccounts.vue'
 export default {
   name: 'app',
   components: {

@@ -83,7 +83,7 @@
      "local": "Blue to go",
      "resultado": "ishar.sajid@hotmail.com",
      "visitante": "ishar_18",
-     "proveedor": "PRIshar",
+     "proveedor": "Ishar",
      "angel": "E",
      "charlie": "L",
      "omar": "L",
@@ -93,7 +93,7 @@
     },
     {
      "local": "HBOMax",
-     "resultado": "carlos.csci@gmail.com",
+     "resultado": "carlos.wsny@gmail.com",
      "visitante": "clave1*",
      "proveedor": "Charlie",
      "angel": "L",
